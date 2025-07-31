@@ -1,9 +1,5 @@
 <h1 align="center">Hi 👋 I'm Rohit</h1>
 
-<div align="center">
-  <img src="./globe-logo.svg" alt="Globe Logo" width="80" height="80" />
-</div>
-
 ###
 
 <p align="center">🎓 Computer Science Student | 💻 Aspiring Software Engineer | 🔍 Always Learning</p>
