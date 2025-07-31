@@ -8,7 +8,7 @@
 
 <div align="center">
   <a href="https://rohitmosh-portfolio.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?logo=vercel&logoColor=white&style=for-the-badge" height="40" alt="portfolio link" />
+    <img src="https://img.shields.io/badge/Visit%20Portfolio-4285F4?logo=googlechrome&logoColor=white&style=for-the-badge" height="40" alt="visit portfolio" />
   </a>
 </div>
 
