@@ -5,6 +5,13 @@
 <p align="center">🎓 Computer Science Student | 💻 Aspiring Software Engineer | 🔍 Always Learning</p>
 
 ###
+
+<div align="center">
+  <a href="https://rohitmosh-portfolio.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?logo=vercel&logoColor=white&style=for-the-badge" height="40" alt="portfolio link" />
+  </a>
+</div>
+
 <!-- Snake Game Repo View -->
 
 <div align="center">
