@@ -10,6 +10,10 @@
   <a href="https://rohitmosh-portfolio.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Visit%20Portfolio-4285F4?logo=googlechrome&logoColor=white&style=for-the-badge" height="40" alt="visit portfolio" />
   </a>
+  <img width="12" />
+  <a href="https://www.linkedin.com/in/rohitmohanty9/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" height="40" alt="linkedin" />
+  </a>
 </div>
 
 <!-- Snake Game Repo View -->
